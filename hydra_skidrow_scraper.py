@@ -48,7 +48,7 @@ class HydraSkidrowScraper:
                     if uris:
                         games_dict[title] = {"title": title, "uris": uris, "uploadDate": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%S.000Z"), "fileSize": "Unknown"}
                     
-                    time.sleep(random.uniform(2.5, 5.5))
+                    time.sleep(random.uniform(3.5, 7.5))
                     
             with open(self.json_file, "w", encoding="utf-8") as f:
                 json.dump({"name": "SkidrowReloaded Custom", "downloads": list(games_dict.values())}, f, indent=4, ensure_ascii=False)
@@ -65,4 +65,4 @@ class HydraSkidrowScraper:
 
 if __name__ == "__main__":
     scraper = HydraSkidrowScraper()
-    scraper.scrape_to_hydra_format(pages_to_scrape=30)
+    scraper.scrape_to_hydra_format(pages_to_scrape=40)
