@@ -65,4 +65,4 @@ class HydraSkidrowScraper:
 
 if __name__ == "__main__":
     scraper = HydraSkidrowScraper()
-    scraper.scrape_to_hydra_format(pages_to_scrape=40)
+    scraper.scrape_to_hydra_format(pages_to_scrape=6)
