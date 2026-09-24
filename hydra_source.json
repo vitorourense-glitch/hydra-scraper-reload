@@ -4214,7 +4214,7 @@
             "uris": [
                 "magnet:?xt=urn:btih:TIVLZ3HDIH3NXQW327TNF2Q3O3EHWFWF&#038;dn=Entity.%20The%20Black%20Day%20%282026%29&#038;tr=udp%3A//tracker.opentrackr.org%3A1337/announce"
             ],
-            "uploadDate": "2026-09-24T12:14:28.000Z",
+            "uploadDate": "2026-09-24T21:12:06.000Z",
             "fileSize": "Unknown"
         },
         {
@@ -4222,7 +4222,7 @@
             "uris": [
                 "magnet:?xt=urn:btih:LJKUY3LCQU6EAKJA6ID6HUFTENOVGSBJ&#038;dn=The.Sims.4.v1.128.90.1030-P2P&#038;tr=udp%3A//tracker.opentrackr.org%3A1337/announce"
             ],
-            "uploadDate": "2026-09-24T12:12:24.000Z",
+            "uploadDate": "2026-09-24T21:09:49.000Z",
             "fileSize": "Unknown"
         },
         {
@@ -4230,7 +4230,7 @@
             "uris": [
                 "magnet:?xt=urn:btih:R6REG3C6RHJPDXQS7DC5Z2RKLFAYJR2E&#038;dn=Fracture%20Point%20%282026%29&#038;tr=udp%3A//tracker.opentrackr.org%3A1337/announce"
             ],
-            "uploadDate": "2026-09-24T12:13:35.000Z",
+            "uploadDate": "2026-09-24T21:11:04.000Z",
             "fileSize": "Unknown"
         },
         {
@@ -4238,7 +4238,7 @@
             "uris": [
                 "magnet:?xt=urn:btih:ZSRPC2433UNMA6PWEJC4NF26IWV7RWEE&#038;dn=Age.of.Reforging.The.Freelands.v1.30b-RUNE&#038;tr=udp%3A//tracker.opentrackr.org%3A1337/announce"
             ],
-            "uploadDate": "2026-09-24T12:14:04.000Z",
+            "uploadDate": "2026-09-24T21:11:39.000Z",
             "fileSize": "Unknown"
         },
         {
@@ -4246,7 +4246,31 @@
             "uris": [
                 "magnet:?xt=urn:btih:KLASSOSXNPQRF3DE4ZBP26MPYPOFCC7P&#038;dn=Breathedge%202&#038;tr=udp%3A//zer0day.ch%3A1337/announce"
             ],
-            "uploadDate": "2026-09-24T12:14:21.000Z",
+            "uploadDate": "2026-09-24T21:12:01.000Z",
+            "fileSize": "Unknown"
+        },
+        {
+            "title": "American Truck Simulator South Dakota-RUNE",
+            "uris": [
+                "magnet:?xt=urn:btih:CDV7MSYRK3AHL2DY3RUJ6YGAXD56JL3W&#038;dn=American.Truck.Simulator.South.Dakota-RUNE&#038;tr=udp%3A//tracker.opentrackr.org%3A1337/announce"
+            ],
+            "uploadDate": "2026-09-24T21:07:58.000Z",
+            "fileSize": "Unknown"
+        },
+        {
+            "title": "Seafarer The Ship Sim-RUNE",
+            "uris": [
+                "magnet:?xt=urn:btih:CXPTB2TU7YBXR44UINBLAD4GCVZLZHBX&#038;dn=Seafarer.The.Ship.Sim-RUNE&#038;tr=udp%3A//tracker.opentrackr.org%3A1337/announce"
+            ],
+            "uploadDate": "2026-09-24T21:08:04.000Z",
+            "fileSize": "Unknown"
+        },
+        {
+            "title": "CONTROL Resonant-RUNE",
+            "uris": [
+                "magnet:?xt=urn:btih:YVNFZG4XFYCWFWZEYIV3SGBYY7FLIINB&#038;dn=CONTROL.Resonant-InsaneRamZes&#038;tr=http%3A//bt4.t-ru.org/ann"
+            ],
+            "uploadDate": "2026-09-24T21:08:11.000Z",
             "fileSize": "Unknown"
         }
     ]
